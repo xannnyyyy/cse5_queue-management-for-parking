@@ -2,7 +2,11 @@
 This project is a web-based Queue Management System designed to streamline the flow of vehicles in parking areas. It allows users to reserve parking spots, join entry queues, and complete payments—all through an intuitive interface.  The system aims to reduce wait times, prevent congestion, and ensure optimal use of parking spaces.
 Based on the extracted and reviewed code from your **Queue Management for Parking** project, here's a **final explanation** of the system:
 
----
+👥 Team Name:
+Pihu Pandey (2301010283)
+Payal Pal (2301010335)
+Diksha Pal (2301010320)
+Kashish (2301010326)
 
 ### 🔧 **Project Title**: Queue Management System for Parking
 
