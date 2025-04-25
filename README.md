@@ -73,6 +73,3 @@ This project is designed to efficiently manage vehicle parking with queue handli
 - Real-time updates with backend integration.
 - Simple and modular code structure.
 
----
-
-Would you like a diagram to visually represent the flow of your system?
